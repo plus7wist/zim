@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-07-30T17:40:40+08:00
+
+====== MCVI Talk ======
+创建日期 星期六 30 七月 2022
+
